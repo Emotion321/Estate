@@ -30,4 +30,4 @@ scrollButton.addEventListener("click", () => {
     behavior: "smooth",
   });
 });
-/* Slider */
+/* Rates */

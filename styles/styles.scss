@@ -378,8 +378,12 @@ li > a {
 .newsroom > .container {
     text-align: center;
 }
+
+.listings__card {
+    text-align: left;
+}
+
 .newsroom__title {
-    text-align: center;
     padding-top: 99px;
 }
 
@@ -416,6 +420,8 @@ li > a {
     line-height: 20px;
     color: #6f7278;
 }
+/* Rates */
+
 /* Desktop */
 
 @media (min-width: 1440px) {
